@@ -1,0 +1,10 @@
+* temporal-functions
+
+Rewrite of the temporal function code from cepl.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/temporal-functions.git   |
+| commit  | 780d595  |
+| systems | temporal-functions |
+|---------+-------------------------------------------|
+
